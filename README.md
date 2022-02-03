@@ -2,7 +2,7 @@
 
 I refactored the given html code for the Horiseon website to make it more semantic.
 
-I changed several div elements and made the the title element in the head to something more specific to the Horiseon brand.
+I changed several div elements and made the the title element in the head something more specific to the Horiseon brand.
 
 The elements that I changed in index.html no longer matched what was written in style.css file so I adjusted that so they would matched again. 
 
