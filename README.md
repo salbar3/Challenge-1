@@ -8,6 +8,8 @@ The elements that I changed in index.html no longer matched what was written in 
 
 I added alt descriptions to every img.
 
+I made sure that the navigation was linked to the correct articles.
+
 I also added some notes over every section of the html and css files to help organzie the code.
 
 I hope everything is how you would like it.
